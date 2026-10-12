@@ -1,0 +1,6 @@
+{
+  "name": "LUMEN & OAK | Curated Living",
+  "description": "Minimalist handcrafted objects, architectural lighting, and artisanal homeware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
